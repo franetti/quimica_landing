@@ -1,0 +1,183 @@
+{
+ 
+    "products":[
+            {
+                "nombre":"producto 1",
+                "descripcion":"limpiador piso",        
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":1
+            },
+            {
+                "nombre":"producto 1",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":1
+            },
+            {
+                "nombre":"producto 1",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":1
+            },
+            {
+                "nombre":"producto 1",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":1
+            },
+            {
+                "nombre":"producto 1",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":1
+            },
+            {
+                "nombre":"producto 2",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":2
+            },
+            {
+                "nombre":"producto 2",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":2
+            },
+            {
+                "nombre":"producto 2",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":2
+            },
+            {
+                "nombre":"producto 2",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":2
+            },
+            {
+                "nombre":"producto 2",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":2
+            },
+            {
+                "nombre":"producto 3",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":3
+            },
+            {
+                "nombre":"producto 3",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":3
+            },
+            {
+                "nombre":"producto 3",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":3
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+                        {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            },
+            {
+                "nombre":"producto 4",
+                "descripcion":"limpiador piso",
+                "precio":"$500",
+                "image":"./assets/default.png",
+                "categoria":4
+            }                                           
+        ],
+    "categorias" :[
+        {
+            "id":1,
+            "nombre":"Perfumeria"
+        },
+        {
+            "id":2,
+            "nombre":"Plasticos"
+        },
+        {
+            "id":3,
+            "nombre":"Art. Limpieza"
+        },
+        {
+            "id":4,
+            "nombre":"Varios"
+        }
+    ],
+    "maps": {
+        "burzaco":"<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13099.309014320721!2d-58.3982681!3d-34.8354356!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe299c571106eda67!2squimica%20que%20le%20vendo%3F!5e0!3m2!1ses-419!2sar!4v1676697217124!5m2!1ses-419!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",                            
+        "solano":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.9578418245987!2d-58.304767999999996!3d-34.78183659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32c6d1fe6f255%3A0x59393e7429a3053!2sC.%20893%205101%2C%20San%20Francisco%20Solano%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1676697753889!5m2!1ses-419!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+}
+
+
